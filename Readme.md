@@ -47,6 +47,8 @@ This repository contains standalone code templates for advanced edge computing s
 *   📂 `/wearable-optics`: Lightweight I2C/SPI display drivers for AR/smart glasses.
 *   📂 `/edge-ai-vision`: Basic object classification using the ESP32-S3's vector instructions.
 
+
+
 ---
 
 ## 👨‍💻 About the Author
