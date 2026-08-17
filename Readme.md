@@ -36,7 +36,7 @@ Which environment should you use?
 *   **Arduino Core:** Best for rapid prototyping, hardware testing, and leveraging massive community libraries. 
 *   **ESP-IDF (Espressif IoT Development Framework):** The gold standard for production. Uses FreeRTOS for complex multitasking, fine-grained memory management, and secure boot.
 *   **MicroPython / CircuitPython:** Best for educational tools, rapid data processing, and simple scripts without compilation delays.
-
+   wonderful architecture 
 ---
 
 ## 3. Edge Use Cases & Code Templates
