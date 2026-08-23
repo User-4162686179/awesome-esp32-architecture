@@ -50,6 +50,7 @@ The ESP32 provides a large number of configurable GPIO pins.
 | GPIO 39 | Digital Input   | **Input only**     |
 
 ---
+![ESP32-WROOM-32 Pinout](esp32-wroom-32-pinout.png)
 
 # ⚡ Power Pins
 
