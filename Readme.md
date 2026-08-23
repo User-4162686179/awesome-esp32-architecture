@@ -367,6 +367,7 @@ My work explores:
 * Edge computing
 * Local-first systems
 * Hardware/software integration
+* Backend & Network
 
 ### Links
 
