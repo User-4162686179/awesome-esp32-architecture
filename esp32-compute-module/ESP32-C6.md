@@ -23,6 +23,13 @@ USB Serial/JTAG
 The ESP32-C6-WROOM-1 module provides **23 GPIOs** and integrates the ESP32-C6 SoC, SPI flash, crystal oscillator, and antenna.
 
 ---
+<p align="center">
+  <img
+    src="./Pinoutput.png"
+    alt="ESP32-C5-WROOM-1 Pinout Blueprint"
+    width="1000"
+  />
+</p>
 
 # 🧠 ESP32-C6 Architecture
 
