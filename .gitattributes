@@ -1,0 +1,20 @@
+# C
+*.c linguist-language=C
+*.h linguist-language=C
+
+# C++
+*.cc linguist-language=C++
+*.cpp linguist-language=C++
+*.cxx linguist-language=C++
+*.hh linguist-language=C++
+*.hpp linguist-language=C++
+
+# Python
+*.py linguist-language=Python
+
+# Markdown documentation
+*.md linguist-language=Markdown
+*.md linguist-documentation=true
+
+# Arduino
+*.ino linguist-language=Arduino
