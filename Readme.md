@@ -20,7 +20,10 @@ The goal of this repository is simple:
 | 🖼️ [ESP32-WROOM-32 Pinout Image](./esp32-wroom/esp32-wroom-32-pinout.png) | Visual blueprint of the ESP32-WROOM-32 pins                                      |
 | 📘 [ESP32-S3 Guide](./esp32-S3.md)                                         | ESP32-S3 architecture and capabilities                                           |
 | 📘 [ESP32-C6 Guide](./esp32_C6.md)                                         | ESP32-C6 architecture and capabilities                                           |
-
+|📘 [ESP32-gpio](./examples/01.gpio/main.ino)                                | ESP32-gpio source code                                                            |
+|📘 [ESP32-button intrupt](./examples/02.button-interupt//main.ino)          | ESP32-button intrupt source code                                                 |
+|📘 [ESP32-led brightness](./examples/03.PWM-led_brightness//main.ino) | ESP32-led brigtness source code                               |
+|📘 [ESP32-analog sensor](./examples/04.analog_sensor//main.ino)            | ESP32-analog sensor code                                                            |
 ---
 
 ## 🔌 ESP32-WROOM-32 Pinout
