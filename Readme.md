@@ -32,7 +32,7 @@ The **ESP32-WROOM-32** is one of the most commonly used ESP32 modules.
 
 Before connecting sensors, displays, motors, or communication modules, it is important to understand the capabilities and restrictions of each GPIO.
 
-### Pinout Blueprint
+### Pinout Blueprint of ESP32
 
 <p align="center">
   <img
