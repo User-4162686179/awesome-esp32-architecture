@@ -96,22 +96,12 @@ It supports features such as:
 
 ESP32-C5 provides Bluetooth Low Energy and supports modern BLE features including Bluetooth Core 6.0 certification in the current datasheet.
 
-### 803.5.26 version
+### 802.15.4  version
 
 ESP32-C5 also supports:
 
 ```text
 IEEE 802.15.4
-
-
-
-
-
-
-
-
-
-
       │
       ├── Thread
       └── Zigbee
