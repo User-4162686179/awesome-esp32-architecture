@@ -11,7 +11,7 @@ The goal of this repository is simple:
 ---
 
 ## 📚 Documentation
-
+## noew qolrd
 ### 🔌 Hardware Stack
 
 | Guide                                                                      | Description                                                                      |
