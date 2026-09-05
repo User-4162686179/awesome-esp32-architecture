@@ -30,6 +30,11 @@ The goal of this repository is simple:
 
 The **ESP32-WROOM-32** is one of the most commonly used ESP32 modules.
 
+
+we can now communicate locally via mqtt ptotocol 
+using espnow 
+and it makes things works locally 
+
 Before connecting sensors, displays, motors, or communication modules, it is important to understand the capabilities and restrictions of each GPIO.
 
 ### Pinout Blueprint of ESP32
