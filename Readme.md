@@ -1,4 +1,5 @@
-# The ESP32 Developer Handbook 🧠💻
+
+# The ESP32 Developer 🧠💻
 
 > **From cube turns to code lines.**
 
